@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342117069297",
+    "project_id": "dummy-10c58",
+    "storage_bucket": "dummy-10c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342117069297:android:c577770ed74b8e5e04d450",
+        "android_client_info": {
+          "package_name": "com.example.tridheetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342117069297-mc9t94jh6p1bslheq7qnroinkji7vcf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwesn_YheuK9kXZRNhnRlbt_3gEfmxRMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342117069297-mc9t94jh6p1bslheq7qnroinkji7vcf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
